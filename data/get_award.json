@@ -1,0 +1,68 @@
+{
+  "respCode": "1",
+  "data": [{
+    "majorid": 1,
+    "name": "奖励1",
+    "stuname":"张天兴",
+    "award":true,
+    "introduce": "所得税等丰富的胜多负少",
+    "stuId": 2
+  }, {
+    "majorid": 2,
+    "name": "奖励2",
+    "stuname":"张天兴",
+    "award":true,
+    "introduce": "ddddd",
+    "stuId": 3
+  }, {
+    "majorid": 3,
+    "name": "奖励3",
+    "stuname":"张天兴",
+    "award":true,
+    "introduce": "ddddddddddddddd",
+    "stuId": 4
+  }, {
+    "majorid": 4,
+    "name": "奖励4",
+    "stuname":"张天兴",
+    "award":true,
+    "introduce": "",
+    "stuId": 5
+  }, {
+    "majorid": 5,
+    "name": "惩罚1",
+    "stuname":"张天兴",
+    "award":false,
+    "introduce": "",
+    "stuId": 6
+  }, {
+    "majorid": 6,
+    "name": "惩罚2",
+    "stuname":"张天兴",
+    "award":false,
+    "introduce": "",
+    "stuId": 7
+  }, {
+    "majorid": 7,
+    "name": "惩罚3",
+    "stuname":"张天兴",
+    "award":false,
+    "introduce": "",
+    "stuId": 8
+  }, {
+    "majorid": 8,
+    "name": "惩罚4",
+    "stuname":"张天兴",
+    "award":false,
+    "introduce": "",
+    "stuId": 9
+  }, {
+    "majorid": 9,
+    "name": "惩罚5",
+    "stuname":"张天兴",
+    "award":false,
+    "introduce": "",
+    "stuId": 10
+  }],
+  "total": 55
+}

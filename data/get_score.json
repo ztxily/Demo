@@ -1,0 +1,86 @@
+{
+  "respCode": "1",
+  "data": [{
+    "classId": 1,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "张三222",
+    "password": "78D6B87F9DDDF68469015CF434C79ADA",
+    "stuId": 2565645,
+    "year":"2019-03"
+  }, {
+    "classId": 1,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "李四",
+    "password": "",
+    "stuId": 2565646,
+    "year":"2019-03"
+  }, {
+    "classId": 1,
+    "general":"男",
+    "score":98,
+    "age":28,
+    "name": "王五",
+    "password": "",
+    "stuId": 2565647,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "张三",
+    "password": "",
+    "stuId": 2565648,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "age":28,
+    "name": "唐山",
+    "score":98,
+    "password": "",
+    "stuId": 2565649,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "唐山",
+    "password": "",
+    "stuId": 2565650,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "score":98,
+    "age":28,
+    "name": "唐山",
+    "password": "",
+    "stuId": 2565651,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "唐山",
+    "password": "",
+    "stuId": 2565652,
+    "year":"2019-03"
+  }, {
+    "classId": 2,
+    "general":"男",
+    "age":28,
+    "score":98,
+    "name": "唐山",
+    "password": "",
+    "stuId": 2565653,
+    "year":"2019-03"
+  }],
+  "total": 55
+}

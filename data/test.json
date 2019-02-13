@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "autoTotalScore": 0,
+    "classId": 1,
+    "className": "测试",
+    "examDate": "2019-01-30",
+    "instId": 12,
+    "managerId": 1,
+    "managerList": [{
+      "instId": 0,
+      "managerId": 1,
+      "name": "张天兴",
+      "roleId": 0,
+      "status": 0
+    }],
+    "name": "张天兴",
+    "paperId": 2,
+    "status": 1,
+    "stuId": 0,
+    "subjectName": "java",
+    "totalscore": 0
+  }],
+  total
+}

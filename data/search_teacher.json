@@ -1,0 +1,11 @@
+{
+  "data": [{
+    "instId": 6,
+    "managerId": 3,
+    "name": "张天兴",
+    "roleId": 0,
+    "status": 0
+  }],
+  "respCode": "1",
+  "total": 1
+}
